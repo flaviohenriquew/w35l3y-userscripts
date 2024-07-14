@@ -40,7 +40,6 @@
 // @grant          GM_deleteValue
 // @grant          GM_xmlhttpRequest
 // @grant          GM_getResourceText
-// @icon           https://addons.mozilla.org/user-media/addon_icons/0/748-64.png?modified=1531822767
 // @connect        github.com
 // @connect        raw.githubusercontent.com
 // @resource       i18n ../../includes/Includes_I18n/resources/default.json
