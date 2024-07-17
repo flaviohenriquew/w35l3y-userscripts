@@ -17,7 +17,6 @@
 // @grant          GM_deleteValue
 // @grant          GM_xmlhttpRequest
 // @grant          GM_getResourceText
-// @icon           http://gm.wesley.eti.br/icon.php?desc=76450
 // @connect        www.jellyneo.net
 // @connect        cluesandanswers.blogspot.com
 // @connect        github.com
